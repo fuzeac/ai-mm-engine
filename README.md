@@ -1,4 +1,4 @@
-# fuze-ai-mm-engine
+# Ai MM Engine
 
 > **Rust + WASM automated market‑making core for FUZE.ac**  
 > Real‑time liquidity, RL inventory skew agent, PM2 orchestration.
